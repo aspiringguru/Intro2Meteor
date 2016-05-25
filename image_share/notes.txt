@@ -1,0 +1,10 @@
+Notes:
+This git repo created due to the updates required for the latest version of Meteor and the Coursera MOOC below.
+https://www.coursera.org/learn/meteor-development
+
+#1 : mods for testing/demo'ing client and server code.
+Lecture "Sending data to templates with helpers" @ approx 2'10"
+
+
+
+

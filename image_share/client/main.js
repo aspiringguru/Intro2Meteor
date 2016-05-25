@@ -22,7 +22,12 @@ Template.hello.events({
 });
 
 if (Meteor.isClient){
-	console.log("I am on the clientaaaaaa");
+	console.log("I am on the clientaaaaaa1");
+  var image_data = {
+    img_src:"laptop.jpg",
+    img_alt:"some laptops"
+  };
+  Template.images.helpers(image_data);
 }
 
 if (Meteor.isServer){

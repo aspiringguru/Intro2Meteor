@@ -7,6 +7,7 @@
 
   {{> hello}}
   {{> info}}
+  {{> images}}
   <br>blaah!
 </body>
 
@@ -14,6 +15,11 @@
   <button>Click Me</button>
   <p>You've pressed the button {{counter}} times.</p>
 </template>
+
+<template name="images">
+  <img src="{{img_src}}" alt="{{img_alt}}____"/>
+</template>
+
 
 <template name="info">
   <h2>Learn Meteor!</h2>
