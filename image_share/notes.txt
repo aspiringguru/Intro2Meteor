@@ -4,6 +4,14 @@ https://www.coursera.org/learn/meteor-development
 
 #1 : mods for testing/demo'ing client and server code.
 Lecture "Sending data to templates with helpers" @ approx 2'10"
+isClient & IsServer
+
+
+#2 : mods for adding helper and template to insert values into img src link.
+Can't load jpg file, lectures haven't shown where the jpg file should be located.
+
+
+
 
 
 
