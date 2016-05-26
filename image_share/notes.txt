@@ -10,6 +10,10 @@ isClient & IsServer
 #2 : mods for adding helper and template to insert values into img src link.
 Can't load jpg file, lectures haven't shown where the jpg file should be located.
 
+#3 : 
+images need to be located in the /public/ folder. delete redundant files.
+
+
 
 
 
